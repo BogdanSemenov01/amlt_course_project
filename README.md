@@ -14,7 +14,10 @@ Project topic: **YOLOv10: Real-Time End-To-End Object Detection**.
 - `yolo_course_project.ipynb` — main jupyter notebook for object detection  
 - `requirements.txt` — requirements for venv
 
-Video examples:
+## Slides
+[Google Slides](https://docs.google.com/presentation/d/1_7ZD1RsToQ4sgz2X_j4Ec73LedQps41ZHGMUhpWZvU0/edit?usp=sharing)
+
+## Video examples
 
 [Day](https://drive.google.com/file/d/17GFMvPfiUc8VipnnZREPeQw9nRE5voa1/view)
 
